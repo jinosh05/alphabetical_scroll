@@ -9,7 +9,7 @@ environment:
 dependencies:
     flutter:
         sdk: flutter
-    cupertino_icons: ^1.0.6
+    cupertino_icons: ^1.0.8
     alphabetical_scroll:
         path: ../
     faker: ^2.1.0
